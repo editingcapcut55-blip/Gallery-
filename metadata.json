@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Gallery",
+  "description": "Offline-first, highly customizable Android photo and video gallery with powerful non-destructive photo editor, albums, and extreme UI personalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
